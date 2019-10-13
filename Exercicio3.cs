@@ -1,10 +1,11 @@
-﻿using System;
+*/﻿
+using System;
 using System.Globalization;
 
 namespace Secao3
 {
 	/*Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
-	de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
+	de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).*/
 
 	class Exercicio3
 	{
@@ -27,5 +28,5 @@ namespace Secao3
 		{
 			return (A * B - C * D);
 		}
-	}*/
+	}
 }
