@@ -1,4 +1,4 @@
-*/﻿
+//Feito por Fabiano Filho
 using System;
 using System.Globalization;
 
