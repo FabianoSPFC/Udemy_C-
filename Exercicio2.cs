@@ -1,4 +1,5 @@
-﻿using System;
+//Feito por Fabiano Filho﻿
+using System;
 using System.Globalization;
 
 
@@ -9,7 +10,7 @@ namespace Secao3
 	casas decimais conforme exemplos.
 	
 		Fórmula da área: area = π . raio2
-		Considere o valor de π = 3.14159
+		Considere o valor de π = 3.14159*/
 		
 	class Exercicio2
 	{
@@ -27,5 +28,5 @@ namespace Secao3
 		{			
 			return Pi * Math.Pow(raio, 2);
 		}
-	}*/
+	}
 }
