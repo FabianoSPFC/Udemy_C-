@@ -1,7 +1,7 @@
-﻿using System;
+//Feito por Fabiano Filho
+using System;
 using System.Globalization;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace Secao3
 {
