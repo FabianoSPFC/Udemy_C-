@@ -1,12 +1,11 @@
+//Feito por Fabiano Filho
 ﻿using System;
 using System.Globalization;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Secao3
 {
 	/*Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o
-	código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
+	código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.*/
 	class Exercicio5
 	{
 		static void Main(string[] args)
@@ -37,5 +36,5 @@ namespace Secao3
 		{
 			return numero * valor;
 		}
-	}*/
+	}
 }
