@@ -1,11 +1,13 @@
-﻿using System;
+//Feito por Fabiano Filho﻿
+
+using System;
 using System.Globalization;
 namespace EstruturaSequencial
 {
 	class Exercicio1
 	{
 		/*Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
-		mensagem explicativa, conforme exemplos.
+		mensagem explicativa, conforme exemplos.*/
 
 		static void Main(string[] args)
 		{
@@ -16,6 +18,6 @@ namespace EstruturaSequencial
 
 			int resultado = valor1 + valor2;
 			Console.WriteLine($"Soma: {resultado:F2}");
-		}*/
+		}
 	}
 }
